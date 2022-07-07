@@ -1,0 +1,1 @@
+# partner-ce-manifest
