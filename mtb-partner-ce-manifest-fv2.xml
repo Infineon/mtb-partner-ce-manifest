@@ -8,6 +8,14 @@
     <br><br>For more details, see the <a href="https://github.com/partner/partner-mtb-example-my-cool-demo/blob/master/README.md">README on GitHub</a>.<br><br><a href="https://partner-webpage.com/">Partner</a> is a company that does ABC and XYZ.<br> > <a href="https://docs.partner-doc-page.com/">Get Started</a><br> > <a href="https://partner-webpage.com/contact/">Talk to Sales</a>]]></description>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
+      <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="bsp_gen4">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="bsp_gen4">
+        <num>2.0.0 release</num>
+        <commit>release-v2.0.0</commit>
+      </version>
       <version flow_version="2.0" tools_min_version="2.4.0" req_capabilities_per_version="bsp_gen3">
         <num>Latest v1.X release</num>
         <commit>latest-v1.X</commit>
